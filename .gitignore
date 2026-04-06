@@ -1,0 +1,13 @@
+# Python virtual environment
+fastapi-env/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code (optional)
+.vscode/
+
+# OS files (optional)
+.DS_Store
